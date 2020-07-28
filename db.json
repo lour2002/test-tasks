@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "date": 1577836800000,
+      "trafic": 269122,
+      "sending": 148539,
+      "answers": 1178,
+      "delivery": 148354,
+      "opening": 147490,
+      "conversion": 121076
+    },
+    {
+      "id": 2,
+      "date": 1577923200000,
+      "trafic": 276312,
+      "sending": 164123,
+      "answers": 1356,
+      "delivery": 163890,
+      "opening": 163121,
+      "conversion": 148901
+    },
+    {
+      "id": 3,
+      "date": 1578009600000,
+      "trafic": 276123,
+      "sending": 179819,
+      "answers": 1489,
+      "delivery": 179721,
+      "opening": 178013,
+      "conversion": 150918
+    },
+    {
+      "id": 4,
+      "date": 1578096000000,
+      "trafic": 320110,
+      "sending": 181276,
+      "answers": 16029,
+      "delivery": 180277,
+      "opening": 178162,
+      "conversion": 157860
+    },
+    {
+      "id": 5,
+      "date": 1578182400000,
+      "trafic": 290871,
+      "sending": 185675,
+      "answers": 18671,
+      "delivery": 185301,
+      "opening": 180275,
+      "conversion": 167864
+    }
+  ]
+}
