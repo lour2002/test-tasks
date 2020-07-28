@@ -1,0 +1,15 @@
+@import '~vuetify/src/styles/main.sass';
+@import "./mixins";
+@import "./typography";
+
+/* Reset styles */
+body {
+  max-width: map-get($grid-breakpoints, 'lg');
+  font-family: $body-font-family;
+  margin: 0;
+  color: map-get($grey, 'darken-4');
+}
+
+button {
+  text-transform: none;
+}

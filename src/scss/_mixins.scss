@@ -1,0 +1,5 @@
+@mixin media-breakpoint-desktop {
+  @media (min-width: 960px) {
+    @content;
+  }
+}
