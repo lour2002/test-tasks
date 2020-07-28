@@ -1,3 +1,3 @@
-# My repository ofr test tasks
+# My repository for test tasks
 
 
